@@ -7,6 +7,6 @@ This website is a sample for a blogging website
   <br>
   <b># Home page</b>
   <br>
-  <img src="https://user-images.githubusercontent.com/117646017/201625627-20963ca9-043b-4efc-9c41-4155d4400e38.png" width="800" height="350"/>
+  <img src="https://github.com/i-osama/Blogging-Website/assets/117646017/39d6be6a-6c73-4c9d-a7ef-7d23bdf452ac" width="800" height="350"/>
   <br>
 </p>
